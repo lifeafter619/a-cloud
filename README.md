@@ -1,5 +1,5 @@
 # a-cloud
 
-just a cloud for my szn.
+just a cloud.
 
 demo:https://cloud.66619.eu.org
